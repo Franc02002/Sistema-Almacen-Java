@@ -1,0 +1,32 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Compilación y binarios
+*.class
+out/
+target/
+build/
+bin/
+
+# Configuración e índices de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos del sistema y logs
+.DS_Store
+Thumbs.db
+
+lib/
+datos_almacen/
+*.db
+*.sqlite
+*.log
